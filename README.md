@@ -1,6 +1,6 @@
 # squirrels
 
-Beispiel-Analyse für die Bamberger Linguistische Werkstatt, 11.12.2019
+Beispiel-Analyse für die Bamberger Linguistische Werkstatt, 18.12.2019
 
 ![squirrel](https://raw.githubusercontent.com/empirical-linguistics/squirrels/master/squirrelcloud.JPG)
 
