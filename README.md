@@ -12,8 +12,12 @@ Um das Skript zu benutzen, bitte folgendermaßen vorgehen:
 
 1. Das Repository herunterladen (oben rechts auf "Clone or Download > Download Zip")
 
+![cloneordownload](https://raw.githubusercontent.com/empirical-linguistics/squirrels/master/cloneordownload.png)
+
 2. Zip-Datei entpacken
 
 3. "Eichhoernchen_kommentiert.R" in Rstudio öffnen.
 
 Damit das Skript einwandfrei funktioniert, ist es wichtig, dass das Verzeichnis, das das Skript enthält, als Arbeitsverzeichnis gesetzt ist. Das kann man in RStudio mit folgendem Befehl sicherstellen:
+
+![setwd](https://raw.githubusercontent.com/empirical-linguistics/squirrels/master/setwd.png)
