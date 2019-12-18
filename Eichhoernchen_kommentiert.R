@@ -66,13 +66,17 @@ sq_sum %>%
   as_data_frame() %>% 
   slice(1:100) %>% 
   as_tibble() %>% 
-  wordcloud2(sq_sum$n_activities, size = .55, shape = 'cardioid')
+  wordcloud2(size = .55, shape = 'cardioid')
 
 
 # gleicher Code mit Grafik als Muster
-sq_sum %>% 
-  arrange(desc(n_activities)) %>% 
-  as_data_frame() %>% 
-  slice(1:100) %>% 
-  as_tibble() %>% 
-  wordcloud2(sq_sum$n_activities, size = .8, figPath = "squirrel.png", color = "brown")
+
+# sq_sum %>% 
+#   arrange(desc(n_activities)) %>% 
+#   as_data_frame() %>% 
+#   slice(1:100) %>% 
+#   as_tibble() %>% 
+#   wordcloud2(sq_sum$n_activities, size = .7, figPath = "squirrel.png", color = "brown")
+
+
+
